@@ -13,7 +13,7 @@ Hi, I'm Mihir Chakma, a passionate Software Developer and Front-End Developer fr
 ## My Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851"/> <img src="https://img.shields.io/badge/CSS3-44b2fb"/> <img src="https://img.shields.io/badge/JavaScript -ffc742"/> <img src="https://img.shields.io/badge/Bootstrap -563d7c"/>  <img src="https://img.shields.io/badge/Vue -41b883" />  <img src="https://img.shields.io/badge/SCSS -FF0000" /> <img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4"/>
-<img src="https://img.shields.io/badge/Python -FF0000"/>  
+<img src="https://img.shields.io/badge/Python -green"/>  
 <img src="https://img.shields.io/badge/Illustrator -ff7b19"/> <img src="https://img.shields.io/badge/Photoshop -30a8fe"/>
 </br>
 <details>
