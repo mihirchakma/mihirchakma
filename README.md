@@ -3,7 +3,7 @@
 ## I am Mihir Chakma. A Software Engineer and Front-End Web Developer from Sri Lanka.
 
 ### I am passionate about:
-- Web Developme
+- Web Development
 - Android Development
 - Gaming
 <!--
