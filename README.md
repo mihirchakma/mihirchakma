@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-# I am Mihir Chakma. A Software Engineer and Front-End Web Developer from Sri Lanka.
+## I am Mihir Chakma. A Software Engineer and Front-End Web Developer from Sri Lanka.
+
+### I am passionate about:
+- Web Developme
+- Android Development
+- Gaming
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
