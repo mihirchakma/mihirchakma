@@ -1,6 +1,6 @@
 # Software Engineer and Front End Developer 🖥
 
-###Hi, I'm Mihir Chakma, a passionate Software Developer and Front-End Developer from Sri Lanka.
+Hi, I'm Mihir Chakma, a passionate Software Developer and Front-End Developer from Sri Lanka.
 
 ## I am passionate about:
 
