@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### Mihir Chakma
+
+-  I'm a  ssooffttwwaarree  ddeevveellooppeerr
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
