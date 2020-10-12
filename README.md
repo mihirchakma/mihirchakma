@@ -40,7 +40,9 @@ Hi, I'm Mihir Chakma, a passionate Software Developer and Front-End Developer fr
 <a href="https://www.linkedin.com/in/mihirchakman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/mihirchakman"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
+<a href="https://dev.to/mihirchakma">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mihir Chakma's DEV Profile" height="30" width="30">
+</a>
 
 
 
