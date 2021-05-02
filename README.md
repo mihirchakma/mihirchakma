@@ -3,7 +3,7 @@
 Hi, I'm Mihir Chakma, a passionate Software Developer and Front-End Developer from Sri Lanka.
 
 ![mihirchakma](https://github-readme-stats.vercel.app/api?username=mihirchakma&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
-![mihirchakma](https://github-readme-stats.vercel.app/api/top-langs/?username=thimiraonline&layout=compact&langs_count=6&theme=algolia)
+![mihirchakma](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&layout=compact&langs_count=6&theme=algolia)
 
 ## I am passionate about:
 
