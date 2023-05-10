@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2>
+<h1 align="center">🙏Welcome to my GitHub👨‍💻❤️</h1>
+
+
+
 
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
