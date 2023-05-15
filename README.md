@@ -1,13 +1,14 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2>
+<!-- <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2> -->
+<h2 align="center"><img src="hello.gif" width="65px"></h2>
 <h1 align="center">🙏Welcome to my GitHub👨‍💻❤️</h1>
 
 <br />
 <br />
-<h3 align="center">Show some &nbsp;❤️&nbsp; | ⭐ this Repository</h3>
+<h3 align="center">Show Some &nbsp;❤️&nbsp; | ⭐ This Repository</h3>
 
 ---
-<img align="left" alt="Dog" width="" src="shiba.gif" />
-<img align="right" alt="Dog" width="" src="shiba.gif" />
+<img align="left" alt="Dog" width="150" src="shiba.gif" />
+<img align="right" alt="Dog" width="150" src="shiba.gif" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mihirchakma/count.svg" />
