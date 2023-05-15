@@ -6,8 +6,8 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; | ⭐ this Repository</h3>
 
 ---
-<img align="left" alt="Dog" width="" src="" />
-<img align="right" alt="Dog" width="" src="" />
+<img align="left" alt="Dog" width="" src="shiba.gif" />
+<img align="right" alt="Dog" width="" src="shiba.gif" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mihirchakma/count.svg" />
