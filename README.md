@@ -3,6 +3,9 @@
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
+- 🔭 I’m an undergraduate with a Bachelor of Applied Information Technology.
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) Programming.
+
 <br />
 <br />
 <h3 align="center">Show Some &nbsp;❤️&nbsp; | ⭐ This Repository</h3>
