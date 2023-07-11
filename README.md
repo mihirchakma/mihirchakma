@@ -3,8 +3,8 @@
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
-- 🔭 I’m an undergraduate with a Bachelor of Applied Information Technology.
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) Programming.
+- 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**.
+- 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
 
 <br />
 <br />
@@ -22,8 +22,6 @@
 <br />
 
 <!--
-**mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
