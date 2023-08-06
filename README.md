@@ -4,7 +4,7 @@
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
 - 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**.
-- 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
+- 🌱 I’m currently learning [__`Go`__](https://go.dev/) Programming.
 
 <br />
 <br />
