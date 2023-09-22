@@ -1,5 +1,4 @@
-<h2 align="center">Hi <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="40px"></h2>
-<!-- <h2 align="center"><img src="hello.gif" width="65px"></h2> -->
+<p align="center">Hi<img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px">Hi</p>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
