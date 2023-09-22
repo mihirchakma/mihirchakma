@@ -1,10 +1,10 @@
-<!-- <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2> -->
-<h2 align="center"><img src="hello.gif" width="65px"></h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="40px"></h2>
+<!-- <h2 align="center"><img src="hello.gif" width="65px"></h2> -->
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
 - 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**.
-- 🌱 I’m currently learning [__`Go`__](https://go.dev/) Programming.
+- 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
 
 <br />
 <br />
