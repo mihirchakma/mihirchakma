@@ -5,20 +5,6 @@
 - 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**.
 - 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
 
-<br />
-<br />
-<h3 align="center">Show Some &nbsp;❤️&nbsp; | ⭐ This Repository</h3>
-
----
-<img align="left" alt="Dog" width="150" src="shiba.gif" />
-<img align="right" alt="Dog" width="150" src="shiba.gif" />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mihirchakma/count.svg" />
-</p>
-
-<br />
-<br />
 
 <!--
 Here are some ideas to get you started:
