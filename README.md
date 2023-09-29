@@ -1,11 +1,24 @@
-<p align="center">Hi <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"> Hi</p>
+<p align="center"><b>Hi</b> <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"> <b>Hi</b></p>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
-<h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
+
+### About Me 👨🏻‍🎓
 
 - 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** @ SLTC Research University.
-- 📚 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) and [__`Go`__](https://go.dev/) Programming.
+- 📚 I’m currently learning [__`Go`__](https://go.dev/) and [__`Rust`__](https://www.rust-lang.org/) Programming.
 - 🧑🏻‍💻 I’m currently working on my personal projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
+
+### My GitHub Stats 💻
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&layout=donut" alt="Mihir's github stats" target="_blank"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=transparent" target="_blank"/>
+  </a>
+</div>
+
 
 
 <!--
