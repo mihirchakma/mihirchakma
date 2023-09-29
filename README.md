@@ -1,9 +1,11 @@
-<p align="center">Hi<img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px">Hi</p>
+<p align="center">Hi <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"> Hi</p>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 <h2 align="center">🧑‍🎓❤️🧑‍💻</h2>
 
-- 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**.
-- 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
+- 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** @ SLTC Research University.
+- 📚 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) and [__`Go`__](https://go.dev/) Programming.
+- 🧑🏻‍💻 I’m currently working on my personal projects.
+- 📫 How to reach me: mihirchakmaths@gmail.com
 
 
 <!--
