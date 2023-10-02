@@ -1,4 +1,4 @@
-<p align="center"><b>Hi</b> <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"> <b>Hi</b></p>
+<p align="center"><b>Hi</b> <img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"> <b>Hi</b></p> <hr>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 
 ### About Me 👨🏻‍🎓
@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&layout=donut" alt="Mihir's github stats" target="_blank"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&layout=pie" alt="Mihir's github stats" target="_blank"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=transparent" target="_blank"/>
@@ -34,7 +34,7 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django-python" width="40" height="40" /></a>
 </p>
 
-
+<hr>
 
 <!--
 Here are some ideas to get you started:
