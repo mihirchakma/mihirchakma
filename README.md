@@ -5,7 +5,7 @@
 
 - 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** @ `SLTC Research University`.
 - 📚 I’m currently learning [__`Go`__](https://go.dev/) and [__`Rust`__](https://www.rust-lang.org/) Programming.
-- 🧑🏻‍💻 I’m currently working on my personal projects.
+- 🧑🏻‍💻 I’m currently working on my projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
 
 ### My GitHub Stats 💻
