@@ -1,4 +1,4 @@
-![Header](https://github.com/mihirchakma/mihirchakma/blob/30f343d6330a1a24ad6a550c0abb74a95337f847/github-header-image.png "Header")
+![Header](https://github.com/mihirchakma/mihirchakma/blob/main/header-image.png "Header")
 <p align="center"><img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"></p>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 
