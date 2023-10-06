@@ -2,14 +2,9 @@
 <p align="center"><img src="https://github.com/mihirchakma/mihirchakma/blob/main/giphy.gif" width="100px"></p>
 <h1 align="center">🙏WELCOME TO MY GITHUB🙏</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&center=true&width=450&lines=Hi+there+%F0%9F%99%8B%F0%9F%8F%BB%2C+I+am+Mihir+Chakma;Undergraduate+at+SLTC+Research+University;Now%2C+I'm+learning+Go+Programming" alt="Typing SVG" /></a>
-</p>
-
-
 ### About Me 👨🏻‍🎓
 
-- 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** @ `SLTC Research University`.
+- 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** at <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=12&pause=1000&color=1729C0&vCenter=true&width=140&height=18&lines=SLTC+Research+University" alt="Typing SVG" />
 - 📚 I’m currently learning [__`Go`__](https://go.dev/) and [__`Rust`__](https://www.rust-lang.org/) Programming.
 - 🧑🏻‍💻 I’m currently working on my projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
