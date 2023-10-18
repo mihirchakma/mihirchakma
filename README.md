@@ -5,7 +5,7 @@
 ### About Me 👨🏻‍🎓
 
 - 🎓 I'm an undergraduate studying **`Bachelor of Applied Information Technology`** at <a href="https://sltc.ac.lk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&pause=1000&color=1840F7&vCenter=true&width=190&height=20&lines=SLTC+Research+University" alt="Typing SVG" /></a>
-- 🧑🏻‍🎓  I'm also a student of the Higher National Diploma in Information Technology at <a href="http://www.sliate.ac.lk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&pause=1000&color=1B2BE3&vCenter=true&random=false&width=80&height=20&lines=SLIATE" alt="Typing SVG" /></a>
+- 🧑🏻‍🎓  I'm also a student of the **`Higher National Diploma in Information Technology`** at <a href="http://www.sliate.ac.lk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&pause=1000&color=1B2BE3&vCenter=true&random=false&width=80&height=20&lines=SLIATE" alt="Typing SVG" /></a>
 - 📚 I’m currently learning [__`Go`__](https://go.dev/) and [__`Rust`__](https://www.rust-lang.org/) Programming.
 - 🧑🏻‍💻 I’m currently working on my projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
