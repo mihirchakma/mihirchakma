@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=blue-green" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirchakma&layout=compact&hide_progress=true&langs_count=10&card_width=400&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirchakma&layout=compact&hide_progress=true&langs_count=10&card_width=350&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ### Languages and Tools 🛠️
