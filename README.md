@@ -14,6 +14,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=blue-green" />
   </a>
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mihirchakma&card_width=467" alt="GitHub Streak - Mihir Chakma" /></a>
 
 ### Languages and Tools 🛠️
 
