@@ -8,6 +8,7 @@
 - 📚 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
 - 🧑🏻‍💻 I’m currently working on my projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
+- ⚡ Fun fact: *🧠 Programming teaches you two things: how to solve problems, and how to create new ones you didn’t know existed.*
 
 ### My GitHub Stats 💻
 
