@@ -4,9 +4,9 @@
 
 ### About Me 👨🏻‍🎓
 
-- 🎓 I'm an undergraduate pursuing **`Bachelor of Applied IT`** degree at <a href="https://sltc.ac.lk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&pause=1000&color=1840F7&vCenter=true&width=190&height=20&lines=SLTC+Research+University" alt="Typing SVG" /></a>
+- 🎓 **`Bachelor of Applied IT`** at <a href="https://sltc.ac.lk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&pause=1000&color=1840F7&vCenter=true&width=190&height=20&lines=SLTC+Research+University" alt="Typing SVG" /></a>
 - 📚 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming.
-- 🧑🏻‍💻 I’m currently working on my projects.
+- 🧑🏻‍💻 I’m currently working on personal side projects.
 - 📫 How to reach me: mihirchakmaths@gmail.com
 - ⚡ Fun fact: *🧠 Programming teaches you two things: how to solve problems, and how to create new ones you didn’t know existed.*
 
