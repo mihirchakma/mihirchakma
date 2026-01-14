@@ -10,13 +10,23 @@
 - 📫 How to reach me: mihirchakmaths@gmail.com
 - ⚡ Fun fact: *🧠 Programming teaches you two things: how to solve problems, and how to create new ones you didn’t know existed.*
 
-### My GitHub Stats 💻
+### My GitHub Stats and Activity 💻
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=blue-green" />
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mihir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mihirchakma&theme=rust-ferris-dark&date_format=j%20M%5B%20Y%5D&hide_border=false&short_numbers=true"/>
   </a>
+</p>
 
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=mihirchakma&theme=soft-green&card_width=467" alt="GitHub Streak" /></a>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mihirchakma's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mihirchakma&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mihirchakma's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=2f80ed&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
+
+<hr>
 
 ### Languages and Tools 🛠️
 
